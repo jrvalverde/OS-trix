@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+ <HEAD>
+  <TITLE>Index of /MIT/trix/sys/dev</TITLE>
+ </HEAD>
+ <BODY>
+<H1>Index of /MIT/trix/sys/dev</H1>
+<PRE><IMG SRC="http://www.bitsavers.org/icons/blank.gif" ALT="     "> <A HREF="index.html?N=A">Name</A>                    <A HREF="index.html?M=A">Last modified</A>       <A HREF="index.html?S=A">Size</A>  <A HREF="index.html?D=A">Description</A>
+<HR>
+<IMG SRC="http://www.bitsavers.org/icons/back.gif" ALT="[DIR]"> <A HREF="../index.html">Parent Directory</A>        27-Jul-1988 00:09      -  
+<IMG SRC="http://www.bitsavers.org/icons/c.gif" ALT="[   ]"> <A HREF="video.c">video.c</A>                 11-Oct-1986 15:50    11k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="test.csav">test.csav</A>               11-Oct-1986 15:50     1k  
+<IMG SRC="http://www.bitsavers.org/icons/c.gif" ALT="[   ]"> <A HREF="smdti.c">smdti.c</A>                 11-Oct-1986 15:50    25k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="reg.h">reg.h</A>                   11-Oct-1986 15:50     6k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="qtr.h">qtr.h</A>                   11-Oct-1986 15:50     6k  
+<IMG SRC="http://www.bitsavers.org/icons/c.gif" ALT="[   ]"> <A HREF="qtr.c">qtr.c</A>                   11-Oct-1986 15:50    21k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="profilei.s">profilei.s</A>              11-Oct-1986 15:50     1k  
+<IMG SRC="http://www.bitsavers.org/icons/c.gif" ALT="[   ]"> <A HREF="profile.c">profile.c</A>               11-Oct-1986 15:50     2k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="devi.s">devi.s</A>                  11-Oct-1986 15:50     1k  
+<IMG SRC="http://www.bitsavers.org/icons/c.gif" ALT="[   ]"> <A HREF="dev.c">dev.c</A>                   11-Oct-1986 15:50     2k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="Makefile">Makefile</A>                11-Oct-1986 15:50     1k  
+</PRE><HR>
+<ADDRESS>Apache/1.3.28 Server at www.bitsavers.org Port 80</ADDRESS>
+</BODY></HTML>

@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+ <HEAD>
+  <TITLE>Index of /MIT/trix/sys/h</TITLE>
+ </HEAD>
+ <BODY>
+<H1>Index of /MIT/trix/sys/h</H1>
+<PRE><IMG SRC="http://www.bitsavers.org/icons/blank.gif" ALT="     "> <A HREF="index.html?N=A">Name</A>                    <A HREF="index.html?M=A">Last modified</A>       <A HREF="index.html?S=A">Size</A>  <A HREF="index.html?D=D">Description</A>
+<HR>
+<IMG SRC="http://www.bitsavers.org/icons/back.gif" ALT="[DIR]"> <A HREF="../index.html">Parent Directory</A>        27-Jul-1988 00:09      -  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="a.out.h">a.out.h</A>                 11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="args.h">args.h</A>                  11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="assert.h">assert.h</A>                11-Oct-1986 15:50     2k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="calls.h">calls.h</A>                 11-Oct-1986 15:50     6k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="cbuf.h">cbuf.h</A>                  11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="com.h">com.h</A>                   11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="devmap.h">devmap.h</A>                11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="domain.h">domain.h</A>                11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="fsys.h">fsys.h</A>                  11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="global.h">global.h</A>                11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="inode.h">inode.h</A>                 11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="link.h">link.h</A>                  11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="memory.h">memory.h</A>                11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="mouse.h">mouse.h</A>                 11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="param.h">param.h</A>                 11-Oct-1986 15:50     2k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="paramsav.h">paramsav.h</A>              11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="protocol.h">protocol.h</A>              11-Oct-1986 15:50     2k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="scline.h">scline.h</A>                11-Oct-1986 15:50     4k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="silo.h">silo.h</A>                  11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="stat.h">stat.h</A>                  11-Oct-1986 15:50     3k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="status.h">status.h</A>                11-Oct-1986 15:50     5k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="thread.h">thread.h</A>                11-Oct-1986 15:50     9k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="unixtypes.h">unixtypes.h</A>             11-Oct-1986 15:51     2k  
+<IMG SRC="http://www.bitsavers.org/icons/unknown.gif" ALT="[   ]"> <A HREF="vcmem.h">vcmem.h</A>                 11-Oct-1986 15:51     8k  
+</PRE><HR>
+<ADDRESS>Apache/1.3.28 Server at www.bitsavers.org Port 80</ADDRESS>
+</BODY></HTML>
